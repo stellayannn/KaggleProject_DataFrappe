@@ -1,9 +1,9 @@
 # KaggleProject_DataFrappe
 
-## Group Name: 
+### Group Name: 
 Data Frappe
 
-## Group Members: 
+### Group Members: 
 Tong Yan
 Yangze Sun
 Qin Wu
